@@ -1,0 +1,10 @@
+{
+  "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "hostname": "example.com",    // 仅用于生成 vless 链接
+  "localPort": 8088,
+  "argoAuth": {
+    "TunnelSecret": "eyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "xrayConfigFile": "xray_config.json",
+  "vlessOutput": "vless.txt"
+}
